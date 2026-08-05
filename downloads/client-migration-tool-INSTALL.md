@@ -22,6 +22,10 @@ Captured credentials are encrypted with a key you provide
 (`CLOUD_MIGRATION_KEY`) and written to an export file
 (`CLIENT_MIGRATION_EXPORT_FILE`) for later import elsewhere.
 
+## Downloads
+
+- Current Distribution - [client-migration-tool-1.2.0-dist.zip](https://pingidentity.github.io/cloud-migration/downloads/client-migration-tool-1.2.0-dist.zip)
+
 ## Prerequisites
 
 - **The script must be run on the PingFederate host itself, on Linux or
